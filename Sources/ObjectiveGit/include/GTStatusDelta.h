@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import "git2/diff.h"
-#import <ObjectiveGit/GTDiffDelta.h>
+#import "GTDiffDelta.h"
 
 @class GTDiffFile;
 

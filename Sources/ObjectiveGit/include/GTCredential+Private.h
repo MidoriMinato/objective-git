@@ -7,6 +7,7 @@
 //
 
 #import "GTCredential.h"
+#import "git2/deprecated.h"
 
 // If you need to authenticate an operation in libgit2, you'll have to have
 // a `GTCredentialProvider` handy, like a parameter in the method you're writing,

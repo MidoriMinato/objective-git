@@ -39,6 +39,7 @@
 #import "git2/repository.h"
 #import "git2/transport.h"
 #import "git2/sys/transport.h"
+#import "git2/deprecated.h"
 
 @class GTBlob;
 @class GTCommit;
