@@ -30,7 +30,7 @@
 #import "GTOID.h"
 #import "NSString+Git.h"
 #import "GTOID.h"
-#import "EXTScope.h"
+#import "libextobjc/EXTScope.h"
 
 #import "git2/errors.h"
 #import "git2/odb.h"

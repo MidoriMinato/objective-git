@@ -7,7 +7,7 @@
 //
 
 #import "NSArray+StringArray.h"
-#import "EXTScope.h"
+#import "libextobjc/EXTScope.h"
 
 @implementation NSArray (StringArray)
 

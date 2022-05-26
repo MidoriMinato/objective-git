@@ -8,7 +8,7 @@
 
 #import "GTRepository+RemoteOperations.h"
 
-#import "EXTScope.h"
+#import "libextobjc/EXTScope.h"
 #import "GTCredential.h"
 #import "GTCredential+Private.h"
 #import "GTFetchHeadEntry.h"

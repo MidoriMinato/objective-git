@@ -76,11 +76,11 @@ FOUNDATION_EXPORT const unsigned char ObjectiveGitVersionString[];
 #import "GTObjectDatabase.h"
 #import "GTOdbObject.h"
 
-#import "../Categories/NSError+Git.h"
-#import "../Categories/NSData+Git.h"
-#import "../Categories/NSDate+GTTimeAdditions.h"
-#import "../Categories/NSString+Git.h"
-#import "../Categories/NSArray+StringArray.h"
+#import "NSError+Git.h"
+#import "NSData+Git.h"
+#import "NSDate+GTTimeAdditions.h"
+#import "NSString+Git.h"
+#import "NSArray+StringArray.h"
 
 #import "GTDiff.h"
 #import "GTDiffDelta.h"

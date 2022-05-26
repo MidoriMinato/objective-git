@@ -29,7 +29,7 @@
 
 #import "GTIndex.h"
 
-#import "EXTScope.h"
+#import "libextobjc/EXTScope.h"
 #import "GTConfiguration.h"
 #import "GTIndexEntry.h"
 #import "GTOID.h"

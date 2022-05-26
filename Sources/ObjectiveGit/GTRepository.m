@@ -55,7 +55,7 @@
 #import "GTRepository+References.h"
 #import "GTNote.h"
 
-#import "EXTScope.h"
+#import "libextobjc/EXTScope.h"
 
 #import "git2.h"
 

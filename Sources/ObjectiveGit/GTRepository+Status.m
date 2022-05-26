@@ -12,7 +12,7 @@
 #import "NSError+Git.h"
 #import "NSArray+StringArray.h"
 
-#import "EXTScope.h"
+#import "libextobjc/EXTScope.h"
 
 #import "git2/errors.h"
 
